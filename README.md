@@ -3,3 +3,4 @@ This is the project our team worked on for the final assignment of the "Data Sci
 
 
 ![Gender-Recognition](Roc3.png)
+![Gender-Recognition](ConfidenceInterval4.png)
